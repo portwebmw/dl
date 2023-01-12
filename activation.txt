@@ -14,10 +14,8 @@ Home/Core N
 3KHY7-WNT83-DGQKR-F7HPR-844BM  
 
 
-(1)   cscript slmgr.vbs /upk
+(1)   slmgr /ipk
 
-(2)   cscript slmgr.vbs /ipk "Product Key According To Your Edition"
+(2)   slmgr /skms kms8.msguides.com
 
-(3)   cscript slmgr.vbs /skms kms.lotro.cc
-
-(4)   cscript slmgr.vbs /ato
+(3)   slmgr /ato
